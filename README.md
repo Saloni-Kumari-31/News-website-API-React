@@ -1,4 +1,4 @@
-# News-website-API-React
+# News-website-API-React:Link(https://news-final-6a6d1.firebaseapp.com)
 THE DAILY PLANET is the website which is made by using React JS with GNEWSAPI
 There are 8 sections in this website Home,General,Business,Entertainment,Health,Science ,Sports and Technology .THE DAILY PLANET is fully responsive.
 
